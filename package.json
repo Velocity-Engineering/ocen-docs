@@ -1,17 +1,19 @@
 {
   "name": "ocen",
   "version": "0.0.0",
+  "homepage": "https://velocity-engineering.github.io/ocen-docs",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@algolia/ui-library": "4.0.0-beta.71",
@@ -23,6 +25,7 @@
     "docusaurus-preset-openapi": "^0.6.4",
     "docusaurus-theme-openapi-docs": "^1.7.2",
     "file-loader": "6.2.0",
+    "gh-pages": "^5.0.0",
     "my-loaders": "file:plugins/my-loaders",
     "postcss": "8.4.18",
     "postcss-import": "15.0.0",
