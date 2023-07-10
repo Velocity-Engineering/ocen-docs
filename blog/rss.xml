@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>OCEN Blog</title>
+        <link>https://ispirt.github.io/blog</link>
+        <description>OCEN Blog</description>
+        <lastBuildDate>Fri, 12 May 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[What is OCEN and what it means for Digital Lending]]></title>
+            <link>https://ispirt.github.io/blog/what-is-ocen</link>
+            <guid>https://ispirt.github.io/blog/what-is-ocen</guid>
+            <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[OCEN provides a API framework for allowing lenders, loan service providers (LSP), and other network participants to seamlessly allow borrowers to avail short-tenure, small credit loans.]]></description>
+            <category>intro</category>
+            <category>lending</category>
+        </item>
+    </channel>
+</rss>
