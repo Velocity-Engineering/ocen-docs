@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocen=self.webpackChunkocen||[]).push([[780],{52517:e=>{e.exports=JSON.parse('{"permalink":"/ocen-docs/blog/tags/intro","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

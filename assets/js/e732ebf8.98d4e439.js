@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocen=self.webpackChunkocen||[]).push([[2718],{67750:e=>{e.exports=JSON.parse('{"label":"intro","permalink":"/ocen-docs/blog/tags/intro","allTagsPath":"/ocen-docs/blog/tags","count":1}')}}]);

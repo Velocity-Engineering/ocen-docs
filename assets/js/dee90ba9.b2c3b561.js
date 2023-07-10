@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkocen=self.webpackChunkocen||[]).push([[5374],{5690:e=>{e.exports=JSON.parse('{"permalink":"/ocen-docs/blog/tags/lending","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

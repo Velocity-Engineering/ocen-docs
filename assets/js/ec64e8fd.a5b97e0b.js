@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkocen=self.webpackChunkocen||[]).push([[8288],{57136:e=>{e.exports=JSON.parse('{"label":"lending","permalink":"/blog/tags/lending","allTagsPath":"/blog/tags","count":1}')}}]);

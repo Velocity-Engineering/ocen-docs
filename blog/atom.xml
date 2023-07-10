@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ispirt.github.io/blog</id>
+    <id>https://velocity-engineering.github.io/ocen-docs/blog</id>
     <title>OCEN Blog</title>
     <updated>2023-05-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ispirt.github.io/blog"/>
+    <link rel="alternate" href="https://velocity-engineering.github.io/ocen-docs/blog"/>
     <subtitle>OCEN Blog</subtitle>
-    <icon>https://ispirt.github.io/img/favicon.ico</icon>
+    <icon>https://velocity-engineering.github.io/ocen-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[What is OCEN and what it means for Digital Lending]]></title>
-        <id>https://ispirt.github.io/blog/what-is-ocen</id>
-        <link href="https://ispirt.github.io/blog/what-is-ocen"/>
+        <id>https://velocity-engineering.github.io/ocen-docs/blog/what-is-ocen</id>
+        <link href="https://velocity-engineering.github.io/ocen-docs/blog/what-is-ocen"/>
         <updated>2023-05-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[OCEN provides a API framework for allowing lenders, loan service providers (LSP), and other network participants to seamlessly allow borrowers to avail short-tenure, small credit loans.]]></summary>
         <author>
